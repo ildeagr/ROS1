@@ -1,0 +1,4 @@
+[submodule "src/android_core"]
+	url = https://github.com/tu_usuario/android_core.git
+[submodule "src/android_extras"]
+	url = https://github.com/tu_usuario/android_extras.git
