@@ -1,0 +1,8 @@
+prefix=/home/ildefonso/android_core/devel
+
+Name: android_core
+Description: Description of android_core
+Version: 0.3.3
+Cflags: 
+Libs: -L/home/ildefonso/android_core/devel/lib 
+Requires: 

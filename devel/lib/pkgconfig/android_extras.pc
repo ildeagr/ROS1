@@ -1,0 +1,8 @@
+prefix=/home/ildefonso/android_core/devel
+
+Name: android_extras
+Description: Description of android_extras
+Version: 0.3.1
+Cflags: 
+Libs: -L/home/ildefonso/android_core/devel/lib 
+Requires: 
