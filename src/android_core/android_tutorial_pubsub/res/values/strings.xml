@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Asistente de reparto</string>
+    <string name="button">Button</string>
+    <string name="stop">Stop</string>
+    <string name="sigueme">Sigueme</string>
+    <string name="abrir_puerta">Abrir puerta</string>
+    <string name="cerrar_puerta">Cerrar puerta</string>
+    <string name="todo">TODO</string>
+    <string name="persona_1">Persona 1</string>
+    <string name="persona_0">Persona 0</string>
+
+</resources>
